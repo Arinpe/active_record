@@ -4,3 +4,5 @@ class Post < ApplicationRecord
         too_short: "must have at least %{count} words",
         too_long: "%{count} characters is the maximum allowed" }
 end
+
+
