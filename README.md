@@ -53,3 +53,4 @@ $ git checkout feature
 
 👤 **Adesuyi Adetola**
 -  GitHub: (https://github.com/Arinpe)
+-  Linkedin: (https://www.linkedin.com/in/aadetola/)    
